@@ -1,0 +1,6 @@
+Car Inventory Data:
+17999472,  , Price per Day: $0, Availability: FALSE
+0,  , Price per Day: $0, Availability: FALSE
+1,  , Price per Day: $0, Availability: FALSE
+0,  , Price per Day: $2.69338e-38, Availability: FALSE
+1758692408,  , Price per Day: $2.69354e-38, Availability: FALSE

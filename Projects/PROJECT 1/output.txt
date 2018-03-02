@@ -1,0 +1,23 @@
+Unsorted Data: 
+1 Victor
+2 Eve
+3 Juliet
+4 Hector
+5 DanielleRomeo
+6 Romeo
+7 Oscar
+8 June
+9 Ares
+10 Dannae
+
+Sorted Data:
+9 Ares
+5 DanielleDannae
+10 Dannae
+2 Eve
+4 Hector
+3 Juliet
+8 June
+7 Oscar
+6 Romeo
+1 Victor
